@@ -1,0 +1,16 @@
+.git
+.gitignore
+README.md
+.env.local
+.env.*.local
+node_modules
+.pnpm-store
+dist
+build
+.turbo
+.next
+out
+coverage
+.nyc_output
+*.log
+.DS_Store
